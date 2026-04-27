@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: sora agent
+pool: prac
 
 steps:
 - task: Maven@3
